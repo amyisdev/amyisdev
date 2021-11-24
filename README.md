@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amyisdev
+- 👀 I’m interested in web programming and mainly using typescript.
+- 🌱 I’m currently learning next.js and discord.js
+- 💞️ I’m not looking to collaborate on anything yet
+- 📫 You can reach me thru email at dev.amy.azmim@gmail.com
