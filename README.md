@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amyisdev
 - 👀 I’m interested in web programming and mainly using typescript.
-- 🌱 I’m currently learning Vue.js and Supabase by developing a [review app](https://github.com/amyisdev/wanna-review).
+- 🌱 I’m currently learning Vue.js by developing [my portfolio](https://github.com/amyisdev/wanna-review).
 - 💞️ I’m not looking to collaborate on anything yet.
 - 📫 You can reach me thru email at dev.amy.azmim@gmail.com
